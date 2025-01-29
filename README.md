@@ -1,3 +1,3 @@
 ̨̨Melon-Framework  
-  The best Boobscript framework in the world
+  The best Boobscript (spelled as Bobscript) framework in the world
 
